@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace BFF.IdentityServer.Controllers
+namespace BFF.Application.Controllers
 {
     [ApiController]
     [Route("[controller]")]

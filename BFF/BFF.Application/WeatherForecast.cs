@@ -1,4 +1,4 @@
-namespace BFF.IdentityServer
+namespace BFF.Application
 {
     public class WeatherForecast
     {
