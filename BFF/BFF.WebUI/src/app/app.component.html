@@ -1,0 +1,5 @@
+ <div *ngIf="!userAuthenticated">
+      <button (click)="onLogin()">Login</button>
+      <p>Login Button will hide after your authentication</p>
+  </div>
+<router-outlet></router-outlet>
